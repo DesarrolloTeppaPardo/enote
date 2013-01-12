@@ -1,0 +1,455 @@
+2012-12-10 18:23:24 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:23:24 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2012-12-10 18:23:29 - INFO  --> agendaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhOW9uanQ2STRhanc 
+2012-12-10 18:25:26 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:25:26 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2012-12-10 18:25:33 - INFO  --> agendaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhalg2bzNnX19WOU0 
+2012-12-10 18:27:01 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:27:01 - INFO  --> notaDao.class - Nota Creado nota correcion  
+2012-12-10 18:27:02 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota correcion _73 
+2012-12-10 18:27:02 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2012-12-10 18:27:56 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:27:56 - INFO  --> adjuntoDao.class - Adjunto Creado mapa.jpg 
+2012-12-10 18:28:03 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhSWNGV2Z1M2lEaFk 
+2012-12-10 18:28:07 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2012-12-10 18:28:07 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2012-12-10 18:30:30 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:30:30 - INFO  --> adjuntoGoogleDrive.class - deleteFile: SUCCESS 
+2012-12-10 18:30:31 - INFO  --> adjuntoDao.class - deleteObjects: Objetos Borrados 
+2012-12-10 18:32:49 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:32:49 - INFO  --> notaDao.class - Nota Creado nota correcion 2 
+2012-12-10 18:32:50 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota correcion 2_74 
+2012-12-10 18:32:50 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2012-12-10 18:34:09 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:34:15 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:15 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:16 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:20 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:21 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:23 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:24 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:25 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:25 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:27 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:27 - INFO  --> agendaDao.class - deleteObjects: Objetos Borrados 
+2012-12-10 18:34:38 - INFO  --> mySqlDao.class - connect: Success 
+2012-12-10 18:34:42 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:43 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:44 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:46 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:34:57 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:35:03 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:35:04 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2012-12-10 18:35:05 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2013-01-04 17:44:11 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 17:44:11 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-04 17:45:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 17:45:14 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-04 18:13:37 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:27:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:29:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:32:29 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:36:15 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:37:12 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:39:33 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:44:33 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:44:44 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:44:56 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:46:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:47:40 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-04 18:47:40 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-06 19:01:52 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 19:01:52 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-06 19:02:09 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 19:49:02 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 19:49:02 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-06 20:11:00 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:11:00 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:11:04 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:12:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:12:14 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:12:17 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:13:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:13:16 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:13:20 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:13:47 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:13:47 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:13:50 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:31:44 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:31:44 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:33:04 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:33:04 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:34:20 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:34:20 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:34:25 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:35:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:35:34 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:35:38 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:36:23 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:36:23 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:36:27 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:36:51 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:36:51 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:36:55 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:37:52 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:37:52 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 20:37:56 - INFO  --> notaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhNGxwZG4ybHBJeTA 
+2013-01-06 20:49:07 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 20:49:07 - INFO  --> notaGoogleDrive.class - Access Token Expired 
+2013-01-06 20:49:07 - INFO  --> googleDrive.class - refreshToken 
+2013-01-06 20:49:08 - INFO  --> notaGoogleDrive.class - saveUserInfo 101176667724903860376 
+2013-01-06 20:49:08 - INFO  --> usuarioDao.class - Update: Edicion Correcto 
+2013-01-06 20:49:09 - INFO  --> notaGoogleDrive.class - deleteFolder: SUCCESS 
+2013-01-06 20:49:09 - INFO  --> notaDao.class - deleteObjects: Objetos Borrados 
+2013-01-06 21:03:51 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:03:51 - INFO  --> notaDao.class - Nota Creado lkhk 
+2013-01-06 21:03:54 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_lkhk_70 
+2013-01-06 21:03:54 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 21:06:10 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:06:10 - INFO  --> notaDao.class - Nota Creado mnsdnskjsd 
+2013-01-06 21:06:12 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_mnsdnskjsd_71 
+2013-01-06 21:06:12 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 21:07:18 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:07:18 - INFO  --> notaDao.class - Nota Creado mfmsfk 
+2013-01-06 21:07:20 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_mfmsfk_72 
+2013-01-06 21:07:20 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 21:08:21 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:08:21 - INFO  --> notaDao.class - Nota Creado jkhsdjkh 
+2013-01-06 21:10:01 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:10:01 - ERROR --> notaDao.class - create - MySQL Error: Duplicate entry '' for key 'notaGoogleDriveIdUnique' 
+2013-01-06 21:10:01 - ERROR --> notaDao.class - create - Caught exception:  
+2013-01-06 21:10:03 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_ksdkjs_0 
+2013-01-06 21:10:03 - INFO  --> notaDao.class - Nota Creado ksdkjs 
+2013-01-06 21:11:45 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:11:45 - INFO  --> notaDao.class - Nota Creado knsdkns 
+2013-01-06 21:11:47 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_knsdkns_76 
+2013-01-06 21:11:47 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 21:13:21 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:13:21 - INFO  --> notaDao.class - Nota Creado sjwj 
+2013-01-06 21:13:22 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_sjwj_77 
+2013-01-06 21:13:22 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-06 21:14:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-06 21:14:31 - INFO  --> notaDao.class - Nota Creado ckdk 
+2013-01-06 21:14:33 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_ckdk_78 
+2013-01-06 21:14:33 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-07 0:56:02 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 0:56:02 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-07 21:21:31 - INFO  --> ajax/validate: Campos Vacios 
+2013-01-07 21:21:43 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 21:21:43 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-07 21:35:53 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 21:35:53 - INFO  --> adjuntoDao.class - Adjunto Creado cliente2.jpg 
+2013-01-07 21:35:56 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhT0R0SVVZYnhiTTg 
+2013-01-07 21:35:57 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-07 21:35:57 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-07 23:29:38 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:29:38 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-07 23:30:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:30:15 - INFO  --> notaDao.class - Nota Creado selenium 
+2013-01-07 23:30:46 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:31:32 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:31:32 - ERROR --> notaDao.class - create - MySQL Error: Duplicate entry '' for key 'notaGoogleDriveIdUnique' 
+2013-01-07 23:31:32 - ERROR --> notaDao.class - create - Caught exception:  
+2013-01-07 23:31:33 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_selenium_0 
+2013-01-07 23:31:33 - INFO  --> notaDao.class - Nota Creado selenium 
+2013-01-07 23:33:08 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:33:08 - INFO  --> agendaDao.class - Agenda Creado selenium 
+2013-01-07 23:33:09 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_selenium_498 
+2013-01-07 23:33:09 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2013-01-07 23:33:53 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:33:53 - INFO  --> notaDao.class - Nota Creado selenium nota 
+2013-01-07 23:33:55 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_selenium nota_82 
+2013-01-07 23:33:55 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-07 23:34:10 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-07 23:34:10 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2013-01-07 23:34:13 - INFO  --> agendaGoogleDrive.class - updateFolder: SUCCESS 0B4SDkBteLMNhYkxiOTJ5YjNMYVk 
+2013-01-08 22:06:01 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 22:06:01 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-08 22:08:46 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 22:08:46 - INFO  --> agendaDao.class - Agenda Creado agenda uno 
+2013-01-08 22:08:47 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda uno_499 
+2013-01-08 22:08:47 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2013-01-08 22:09:10 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 22:09:10 - INFO  --> notaDao.class - Nota Creado nota test uno 
+2013-01-08 22:09:10 - INFO  --> etiquetaDao.class - Etiqueta Creado juan 
+2013-01-08 22:09:10 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 83 15: 15 
+2013-01-08 22:09:10 - INFO  --> etiquetaDao.class - Etiqueta Creado test 
+2013-01-08 22:09:10 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 83 16: 16 
+2013-01-08 22:09:11 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota test uno_83 
+2013-01-08 22:09:11 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-08 22:36:50 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 22:36:50 - INFO  --> usuarioDao.class - validarRegistro: Ya existe este usuario 
+2013-01-08 22:37:52 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 22:37:52 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-08 23:32:43 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:32:43 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-08 23:41:05 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:41:05 - INFO  --> adjuntoDao.class - Adjunto Creado Pensive Parakeet.jpg 
+2013-01-08 23:41:20 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhZ0FnN0hHUDJCcG8 
+2013-01-08 23:41:21 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:41:21 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:46:30 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:46:30 - INFO  --> adjuntoDao.class - Adjunto Creado Boston City Flow.jpg 
+2013-01-08 23:46:42 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhSzRZM2JpUXVLdXM 
+2013-01-08 23:46:43 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:46:43 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:47:28 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:47:28 - INFO  --> notaDao.class - Nota Creado nota 2 
+2013-01-08 23:47:28 - INFO  --> etiquetaDao.class - Etiqueta Creado 1234 
+2013-01-08 23:47:28 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 84 17: 17 
+2013-01-08 23:47:28 - INFO  --> etiquetaDao.class - Etiqueta Creado qwer 
+2013-01-08 23:47:28 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 84 18: 18 
+2013-01-08 23:47:29 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota 2_84 
+2013-01-08 23:47:29 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-08 23:47:58 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:47:58 - INFO  --> adjuntoDao.class - Adjunto Creado Chrysanthemum.jpg 
+2013-01-08 23:48:24 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhZE1oanN4UjFDOHc 
+2013-01-08 23:48:25 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:48:25 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:48:36 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:48:36 - INFO  --> adjuntoDao.class - Adjunto Creado Jellyfish.jpg 
+2013-01-08 23:48:58 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNheXV0d3hRb0dqdzg 
+2013-01-08 23:48:59 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:48:59 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:57:56 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:57:56 - INFO  --> agendaDao.class - Agenda Creado agenda dos 
+2013-01-08 23:57:57 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda dos_500 
+2013-01-08 23:57:57 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2013-01-08 23:58:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:58:16 - INFO  --> notaDao.class - Nota Creado agenda nota 2 
+2013-01-08 23:58:16 - INFO  --> etiquetaDao.class - Etiqueta Creado dqeew 
+2013-01-08 23:58:16 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 85 19: 19 
+2013-01-08 23:58:16 - INFO  --> etiquetaDao.class - Etiqueta Creado eew 
+2013-01-08 23:58:16 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 85 20: 20 
+2013-01-08 23:58:18 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_agenda nota 2_85 
+2013-01-08 23:58:18 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-08 23:58:30 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:58:30 - INFO  --> notaDao.class - Nota Creado agenda nota 2.1 
+2013-01-08 23:58:30 - INFO  --> etiquetaDao.class - Etiqueta Creado oiu 
+2013-01-08 23:58:30 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 86 21: 21 
+2013-01-08 23:58:30 - INFO  --> etiquetaDao.class - Etiqueta Creado oiy 
+2013-01-08 23:58:30 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 86 22: 22 
+2013-01-08 23:58:32 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_agenda nota 2.1_86 
+2013-01-08 23:58:32 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-08 23:58:53 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:58:54 - INFO  --> adjuntoDao.class - Adjunto Creado Boston City Flow.jpg 
+2013-01-08 23:59:06 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhRi1LdUVZNHJ4YWM 
+2013-01-08 23:59:07 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:59:07 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:59:11 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:59:11 - INFO  --> adjuntoDao.class - Adjunto Creado Costa Rican Frog.jpg 
+2013-01-08 23:59:24 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhMFBRci1rajM5UnM 
+2013-01-08 23:59:25 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:59:25 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:59:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:59:34 - INFO  --> adjuntoDao.class - Adjunto Creado Pensive Parakeet.jpg 
+2013-01-08 23:59:50 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhZzJCMWRDYVgzLWM 
+2013-01-08 23:59:51 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-08 23:59:51 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-08 23:59:55 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-08 23:59:55 - INFO  --> adjuntoDao.class - Adjunto Creado Costa Rican Frog.jpg 
+2013-01-09 0:00:07 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNhQ1NyX21hbGxPZWs 
+2013-01-09 0:00:08 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-09 0:00:08 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-09 0:21:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 0:21:14 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 12:15:23 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 12:15:23 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-09 12:35:17 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 12:35:17 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 12:36:09 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 12:36:09 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 12:38:53 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 12:38:53 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 21:22:46 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 21:22:47 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 21:35:51 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 21:35:51 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-09 23:51:18 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 23:51:18 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-09 23:51:26 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 23:51:26 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-09 23:56:47 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-09 23:56:47 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 0:01:24 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:01:24 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:01:40 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:01:40 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:02:35 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:02:35 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:02:40 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:02:40 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:03:15 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:03:15 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:03:25 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:03:25 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 0:04:07 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:04:07 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 0:04:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:04:16 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 0:04:37 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:04:37 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 0:13:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:13:16 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-10 0:13:42 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:13:42 - INFO  --> usuarioDao.class - validarRegistro: Ya existe este usuario 
+2013-01-10 0:13:56 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:13:56 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-10 0:18:22 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:18:22 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-10 0:24:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:24:34 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-10 0:25:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:25:31 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-10 0:57:05 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:57:05 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 0:57:44 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 0:57:44 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 1:15:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:15:16 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 1:15:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:15:31 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 1:16:10 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:16:10 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 1:49:07 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:49:07 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 1:49:32 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:49:32 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:49:34 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda tres_0 
+2013-01-10 1:49:34 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:50:28 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:50:28 - INFO  --> notaDao.class - Nota Creado nota tres 
+2013-01-10 1:50:28 - INFO  --> etiquetaDao.class - Etiqueta Creado aju 
+2013-01-10 1:50:28 - ERROR --> etiquetaDao.class - insertEtiquetaNota - MySQL Error: Cannot add or update a child row: a foreign key constraint fails (`enote`.`nota_etiqueta`, CONSTRAINT `FK_nota_nota_etiqueta` FOREIGN KEY (`notaId`) REFERENCES `nota` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) 
+2013-01-10 1:50:28 - ERROR --> etiquetaDao.class - insertEtiquetaNota: Caught exception:  
+2013-01-10 1:50:28 - ERROR --> etiquetaDao.class - insertEtiquetaNota - MySQL Error: Cannot add or update a child row: a foreign key constraint fails (`enote`.`nota_etiqueta`, CONSTRAINT `FK_nota_nota_etiqueta` FOREIGN KEY (`notaId`) REFERENCES `nota` (`id`) ON DELETE CASCADE ON UPDATE CASCADE) 
+2013-01-10 1:50:28 - ERROR --> etiquetaDao.class - insertEtiquetaNota: Caught exception:  
+2013-01-10 1:50:30 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota tres_0 
+2013-01-10 1:50:30 - INFO  --> notaDao.class - Nota Creado nota tres 
+2013-01-10 1:52:43 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:52:44 - INFO  --> adjuntoGoogleDrive.class - deleteFolder: SUCCESS 
+2013-01-10 1:52:44 - INFO  --> agendaDao.class - deleteObjects: Objetos Borrados 
+2013-01-10 1:53:04 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:53:04 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:53:05 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda tres_0 
+2013-01-10 1:53:05 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:53:22 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:54:38 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:54:38 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:54:40 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda tres_0 
+2013-01-10 1:54:40 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:57:06 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:57:06 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:57:08 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda tres_0 
+2013-01-10 1:57:08 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:59:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 1:59:34 - INFO  --> agendaDao.class - Agenda Creado agenda tres 
+2013-01-10 1:59:35 - INFO  --> agendaGoogleDrive.class - createFolder: SUCCESS Agenda_agenda tres_509 
+2013-01-10 1:59:35 - INFO  --> agendaDao.class - Update: Edicion Correcto 
+2013-01-10 2:03:30 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:03:30 - INFO  --> notaDao.class - Nota Creado nota 3 
+2013-01-10 2:03:30 - INFO  --> etiquetaDao.class - Etiqueta Creado tfyg 
+2013-01-10 2:03:30 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 89 24: 24 
+2013-01-10 2:03:30 - INFO  --> etiquetaDao.class - Etiqueta Creado hbjnk 
+2013-01-10 2:03:30 - INFO  --> etiquetaDao.class - insertEtiquetaNota - notaId: 89 25: 25 
+2013-01-10 2:03:31 - INFO  --> notaGoogleDrive.class - createFolder: SUCCESSNota_nota 3_89 
+2013-01-10 2:03:31 - INFO  --> notaDao.class - Update: Edicion Correcto 
+2013-01-10 2:04:02 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:04:02 - INFO  --> adjuntoDao.class - Adjunto Creado test.xml 
+2013-01-10 2:07:03 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:07:03 - INFO  --> adjuntoDao.class - Adjunto Creado test.xml 
+2013-01-10 2:07:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:07:31 - INFO  --> adjuntoDao.class - Adjunto Creado test.xml 
+2013-01-10 2:09:13 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:09:13 - INFO  --> adjuntoDao.class - Adjunto Creado test.xml 
+2013-01-10 2:09:24 - INFO  --> adjuntoGoogleDrive.class - uploadFile: SUCCESS0B4SDkBteLMNha29NMjA5RXB3WlU 
+2013-01-10 2:09:25 - INFO  --> adjuntoGoogleDrive.class - getLinkDescarga: SUCCESS 
+2013-01-10 2:09:25 - INFO  --> adjuntoDao.class - Update: Edicion Correcto 
+2013-01-10 2:10:45 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:10:45 - INFO  --> etiquetaDao.class - deleteObjects: Objetos Borrados 
+2013-01-10 2:10:58 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:10:58 - INFO  --> etiquetaDao.class - Update: Edicion Correcto 
+2013-01-10 2:11:12 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:11:12 - INFO  --> etiquetaDao.class - Etiqueta Creado alone 
+2013-01-10 2:12:27 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:12:27 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:19:38 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:19:38 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:23:57 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:23:57 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:26:23 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:26:23 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:26:47 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:26:47 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:29:03 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:29:03 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:34:49 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:34:49 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:37:15 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:37:15 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 2:37:32 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 2:37:32 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 22:10:54 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:10:54 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:11:29 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:11:29 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:11:47 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:11:47 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-10 22:12:21 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:21 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:24 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:24 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:25 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:25 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:26 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:26 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:28 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:28 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:29 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:29 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:30 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:30 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:30 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:30 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:31 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:31 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:31 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:31 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:31 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:33 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:33 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:49 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:49 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:12:51 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:12:51 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:17:18 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:17:18 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:17:45 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:17:45 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:18:16 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:18:16 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-10 22:19:59 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-10 22:19:59 - INFO  --> usuarioDao.class - Login: Usuario y Clave Invalidos 
+2013-01-11 22:30:59 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-11 22:30:59 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-11 23:39:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-11 23:39:34 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-12 0:11:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 0:11:14 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-12 15:54:53 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 15:54:54 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-12 15:57:01 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 15:57:01 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-12 15:57:45 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 15:57:45 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-12 16:08:34 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 16:08:34 - INFO  --> usuarioDao.class - Create: Registro Correcto 
+2013-01-12 16:12:04 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 16:12:04 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-12 16:34:08 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 16:34:08 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
+2013-01-12 18:38:14 - INFO  --> mySqlDao.class - connect: Success 
+2013-01-12 18:38:15 - INFO  --> usuarioDao.class - Login: Credenciales correctas 
